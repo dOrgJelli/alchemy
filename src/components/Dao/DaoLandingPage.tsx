@@ -49,7 +49,7 @@ class DaoLandingPage extends React.Component<IProps, null> {
           <>
             <div>Editing the content on this DAO’s home page will soon be possible via proposal. Stay tuned!</div>
             <div>For now, if you need a change made to a DAO’s home page content, please contact us at <a href="https://support@daostack.zendesk.com" target="_blank" rel="noopener noreferrer">support@daostack.zendesk.com</a></div>
-          </>
+          </>,
       }
     );
   }
